@@ -52,7 +52,7 @@
     "ghost-ignition": "2.8.12",
     "inquirer": "3.2.1",
     "is-running": "2.1.0",
-    "knex-migrator": "2.1.2",
+    "knex-migrator": "^2.1.4",
     "listr": "0.12.0",
     "lodash": "4.17.4",
     "log-symbols": "2.0.0",
